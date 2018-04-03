@@ -20,4 +20,3 @@ logging.basicConfig(
 logging.debug('Start of the program')
 logging.info('Doing something')
 logging.warning('Dying now')
-
